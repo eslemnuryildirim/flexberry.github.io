@@ -1,5 +1,5 @@
 ---
-title: Diagram of use cases (UseCase diagram)
+title: Diagram of use cases (UseCase diagram) 
 sidebar: flexberry-designer_sidebar
 keywords: Flexberry Designer, diagram use cases, participant, actor, precedent
 summary: Basic information about the diagram, use cases, and its elements
